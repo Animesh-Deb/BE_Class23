@@ -8,3 +8,4 @@ Region
 State
 Segment
 City
+Result - 4 combinations found
