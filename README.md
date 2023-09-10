@@ -6,3 +6,5 @@ Country
 Ship Mode
 Region
 State
+Segment
+City
