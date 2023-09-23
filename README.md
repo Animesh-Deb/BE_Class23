@@ -14,3 +14,5 @@ Assignment2 -  Recommendations System
 Data Set Used - Movies dataset - 2 dataset are joined using movieID
 Version1 Updates - Followed the steps and created the file. Tried to create a function which can accept movie title and gives back recommendated movie. The function is created but giving errors. Request for suggestions.
 
+Assignment3 -  PCA Assignment
+Dataset used - Water Potability csv file
